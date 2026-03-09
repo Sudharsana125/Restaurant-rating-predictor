@@ -61,12 +61,4 @@ Three regression models were implemented and compared:
 - R² Score
 - Train vs Test performance comparison
 
-### 6. **Hyperparameter Tuning** ⚙️
-- GridSearchCV for Random Forest optimization
-- Finding best parameters:
-  ```python
-  Best parameters: {
-      'max_depth': 10,
-      'min_samples_split': 5,
-      'n_estimators': 100
-  }
+
